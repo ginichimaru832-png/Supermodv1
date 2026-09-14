@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PLP",
+    "PCP",
+    "PPP"
+  ],
+  "key": {
+    "P": { "item": "minecraft:oak_planks" },
+    "L": { "item": "minecraft:leather" },
+    "C": { "item": "minecraft:chest" }
+  },
+  "result": { "item": "supermod:wardrobe", "count": 1 }
+}
