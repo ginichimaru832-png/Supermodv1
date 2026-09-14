@@ -1,0 +1,23 @@
+{
+  "block.supermod.super_smelter": "Super Smelter",
+  "block.supermod.wardrobe": "Wardrobe",
+  "block.supermod.skull_bench": "Skull Bench",
+  "item.supermod.farming_helmet": "Harvester's Cap",
+  "item.supermod.farming_chestplate": "Harvester's Tunic",
+  "item.supermod.farming_leggings": "Harvester's Leggings",
+  "item.supermod.farming_boots": "Harvester's Boots",
+  "item.supermod.mining_helmet": "Prospector's Helmet",
+  "item.supermod.mining_chestplate": "Prospector's Chestplate",
+  "item.supermod.mining_leggings": "Prospector's Leggings",
+  "item.supermod.mining_boots": "Prospector's Boots",
+  "enchantment.supermod.farming_fortune": "Farming Fortune",
+  "enchantment.supermod.teletele": "Teletele",
+  "enchantment.supermod.smelting_touch": "Smelting Touch",
+  "enchantment.supermod.night_goggles": "Night Goggles",
+  "enchantment.supermod.hard_miner": "Hard Miner",
+  "enchantment.supermod.green_thumb": "Green Thumb",
+  "enchantment.supermod.prospector_sense": "Prospector's Sense",
+  "gui.supermod.wardrobe.equip": "Equip %s",
+  "gui.supermod.open_wardrobe": "W",
+  "message.supermod.no_wardrobe": "You haven't used a Wardrobe yet"
+}
