@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "supermod",
+	"version": "${version}",
+	"name": "Super Mod",
+	"description": "Super Smelter, Farming Fortune, custom armor sets, Wardrobe quick-swap, new enchantments, and a Skull Bench.",
+	"authors": ["You"],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/supermod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["com.supermod.SuperMod"],
+		"client": ["com.supermod.client.SuperModClient"]
+	},
+	"mixins": ["supermod.mixins.json"],
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"fabric": "*",
+		"minecraft": "~1.20.1",
+		"java": ">=17"
+	}
+}

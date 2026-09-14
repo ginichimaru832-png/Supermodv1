@@ -1,0 +1,16 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "com.supermod.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"StemBlockMixin",
+		"HoeItemMixin"
+	],
+	"client": [
+		"InventoryScreenMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
